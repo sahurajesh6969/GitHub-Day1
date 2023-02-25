@@ -9,5 +9,8 @@ System.out.println("Hellow world 2");
 
 System.out.println("Hellow world 4");
 
+
+System.out.println("commit to global");
+
 }
 }
